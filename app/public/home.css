@@ -1,0 +1,22 @@
+/*Home.html overwrite CSS  */
+
+body {background-color: #E5D4C0;
+
+}
+
+.jumbotron {
+    color:#7A1418;
+    text-align: center;
+    margin: 100px 50px 50px 50px;
+    background: rgba(100, 55, 55, 0.5);
+}
+
+.btn-primary {
+    background-color: #7A1418;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #E5D4C0;
+    color:#7A1418;
+}
