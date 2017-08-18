@@ -1,0 +1,59 @@
+/*Survey overwrite CSS  */
+
+body {background-color: #E5D4C0;
+    
+
+}
+
+.bg-primary {
+    background-color: #7A1418!important;
+}
+.navbar-brand {
+    color:#E5D4C0;
+    background-color: #7A1418;
+    font-size: 28px;
+}
+
+.navbar-brand:hover {
+    color:white;
+}
+
+#main {
+   padding-left: 70px;
+   padding-right: 70px;
+   font-size: 15px;
+}
+
+#submit, #submit2 {
+    background-color: #7A1418;
+    color: #E5D4C0;
+    width: 100%;
+}
+
+#submit2:hover {
+    background-color: #E5D4C0;
+    color: #7A1418;
+}
+/* Modal  */
+
+#modal-survey {
+    background-color: #7A1418;
+}
+.best {
+    color: #E5D4C0;
+}
+
+#return-button {
+    background-color: #E5D4C0;
+    color: #7A1418;
+}
+
+#match-photo {
+    width: 300px;
+    height: 200px;
+}
+
+#match-name {
+    color: #E5D4C0;
+    font-size: 24px;
+}
