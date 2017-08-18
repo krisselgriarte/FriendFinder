@@ -49,5 +49,8 @@ runFriendsData();
 
 });
 
+// I cannot figure out how to compare the results to the right match
+// I am also trying to send an alert if person did not fill out blanks
+
 
 
